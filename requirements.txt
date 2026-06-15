@@ -1,0 +1,9 @@
+# Core deep learning stack (versions used in the notebooks)
+torch==1.7.1
+torchtext==0.8.1
+
+# Tokenization
+spacy
+
+# After installing spaCy, download the English model:
+#   python -m spacy download en_core_web_sm
